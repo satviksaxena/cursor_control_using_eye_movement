@@ -8,7 +8,7 @@ A project documentation is provided in the repository.
 ### Clone or download this repository
 
 ```sh
-git clone 
+git clone https://github.com/satviksaxena/cursor_control_using_eye_movement.git
 ```
 
 ## Install dependencies
